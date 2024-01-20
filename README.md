@@ -31,3 +31,13 @@ https://github.com/virendra2000/Face_Attendance_System_Python_ML.git
 ```bash
 Face_Attendance_System_Python_ML
 ```
+
+### 2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the main application script:
+
