@@ -55,3 +55,4 @@ Feel free to contribute to the project. Follow these steps:
 - Submit a pull request.
 
 # License
+This project is licensed under the MIT License.
