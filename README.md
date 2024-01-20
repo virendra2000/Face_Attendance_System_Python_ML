@@ -53,3 +53,5 @@ Feel free to contribute to the project. Follow these steps:
 - Commit your changes: git commit -m 'Add some feature'.
 - Push to the branch: git push origin feature-name.
 - Submit a pull request.
+
+# License
