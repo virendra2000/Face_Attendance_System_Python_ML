@@ -24,3 +24,10 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
 ```bash
+https://github.com/virendra2000/Face_Attendance_System_Python_ML.git
+```
+
+### 1. Navigate to the project directory:
+```bash
+Face_Attendance_System_Python_ML
+```
