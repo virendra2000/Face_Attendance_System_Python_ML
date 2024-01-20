@@ -1,0 +1,8 @@
+userid=""
+name=""
+address=""
+designation=""
+mobilenum=""
+emailid=""
+username=""
+password=""
