@@ -41,3 +41,15 @@ pip install -r requirements.txt
 
 Run the main application script:
 
+```bash
+python main.py
+```
+
+# Contribution
+Feel free to contribute to the project. Follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature: git checkout -b feature-name.
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-name.
+- Submit a pull request.
