@@ -16,4 +16,11 @@ This project implements a Face Attendance System using Python and Machine Learni
 Ensure you have the following installed on your system:
 
 - Python Latest Version or Python Version greater than 3
-- Required Python packages : 
+- Required Python packages : opencv-python , pandas , numpy
+
+## Installation
+
+
+1. Clone the repository:
+
+```bash
